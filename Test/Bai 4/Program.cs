@@ -15,10 +15,10 @@ namespace Bai_4
             News n = new News();
             ArrayList SaveNews = new ArrayList();
 
-            Console.WriteLine("Insert news");
-            Console.WriteLine("View list news");
-            Console.WriteLine("Average news");
-            Console.WriteLine("Exit");
+            Console.WriteLine("1. Insert news");
+            Console.WriteLine("2. View list news");
+            Console.WriteLine("3. Average news");
+            Console.WriteLine("4. Exit");
             int opt;
             do
             {
