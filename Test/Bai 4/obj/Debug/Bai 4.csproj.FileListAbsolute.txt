@@ -1,7 +1,0 @@
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\bin\Debug\Bai 4.exe.config
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\bin\Debug\Bai 4.exe
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\bin\Debug\Bai 4.pdb
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\obj\Debug\Bai 4.csproj.AssemblyReference.cache
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\obj\Debug\Bai 4.csproj.CoreCompileInputs.cache
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\obj\Debug\Bai 4.exe
-D:\CongViec\Buoi 1\firsttest\Test\Bai 4\obj\Debug\Bai 4.pdb
