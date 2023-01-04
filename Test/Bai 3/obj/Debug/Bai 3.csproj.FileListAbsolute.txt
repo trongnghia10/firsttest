@@ -1,0 +1,6 @@
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\bin\Debug\Bai 3.exe.config
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\bin\Debug\Bai 3.exe
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\bin\Debug\Bai 3.pdb
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\obj\Debug\Bai 3.csproj.CoreCompileInputs.cache
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\obj\Debug\Bai 3.exe
+D:\CongViec\Buoi 1\firsttest\Test\Bai 3\obj\Debug\Bai 3.pdb

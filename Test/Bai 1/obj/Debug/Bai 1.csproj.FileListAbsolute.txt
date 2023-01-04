@@ -1,0 +1,7 @@
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\bin\Debug\Bai 1.exe.config
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\bin\Debug\Bai 1.exe
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\bin\Debug\Bai 1.pdb
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\obj\Debug\Bai 1.csproj.AssemblyReference.cache
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\obj\Debug\Bai 1.csproj.CoreCompileInputs.cache
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\obj\Debug\Bai 1.exe
+D:\CongViec\Buoi 1\firsttest\Test\Bai 1\obj\Debug\Bai 1.pdb
