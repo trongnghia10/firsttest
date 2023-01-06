@@ -18,4 +18,4 @@ select * from grades;
 select name, id
 from grades
 where final > midterm1+midterm2
-order by SUBSTRING(name,1,3);
+order by SUBSTRING(name,1,3), id;
